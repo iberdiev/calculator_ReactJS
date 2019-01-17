@@ -1,6 +1,7 @@
 ## Simple calculator build on ReactJS for educational purposes
 ### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+To run the app, go to the root directory, install dependencies and start.
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.<br>
