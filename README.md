@@ -1,4 +1,4 @@
-# Simple calculator build on ReactJS for educational purposes
+## Simple calculator build on ReactJS for educational purposes
 ### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### `npm start`
