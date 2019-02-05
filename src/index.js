@@ -70,10 +70,6 @@ class App extends React.Component {
       this.setState({result: value.currentTarget.value})
 
     } else {
-      switch(false){
-        case 0:
-        break;
-      }
       this.setState({result: this.state.result+value.currentTarget.value})
     }
 
